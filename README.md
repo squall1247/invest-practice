@@ -1,2 +1,2 @@
 # invest-practice
-A system that can get the historical price of any stock.
+A application that can get the historical price of specific stock.
